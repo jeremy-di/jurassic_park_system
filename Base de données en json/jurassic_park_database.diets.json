@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65d7cc09d9a4953cb72699a1"
+  },
+  "name": "Carnivore",
+  "image": "http://localhost:8080/images/carnivore.png_1708641289027.png",
+  "createdAt": {
+    "$date": "2024-02-22T22:34:49.028Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T22:34:49.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d7cc17d9a4953cb72699a3"
+  },
+  "name": "Herbivore",
+  "image": "http://localhost:8080/images/herbivore.png_1708641303816.png",
+  "createdAt": {
+    "$date": "2024-02-22T22:35:03.817Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T22:35:03.817Z"
+  },
+  "__v": 0
+}]

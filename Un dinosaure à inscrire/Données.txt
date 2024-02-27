@@ -1,0 +1,23 @@
+Nom : Herrerasaurus
+
+image01 : image01.webp
+
+image02 : image02.webp
+
+Taille : 1
+
+Longueur : 5
+
+Poids : 200
+
+Taux d'humidité : 6
+
+Milieu forestier : 35
+
+Espace ouvert : 59
+
+Description : 
+
+L'Herrerasaurus est l'un des plus vieux dinosaures carnivores. Il vivait au début du Trias supérieur, en Argentine, ne mesure que quelques mètres de long mais est l’un des plus grands dinosaures carnivores de l'époque. Les os des pattes sont longs et creux, comme ceux des autres théropodes.
+Les vertèbres de la queue sont fermement fixées entre elles, la rendant très rigide. Sa main puissante est dotée de trois grands doigts possédant de longues griffes recourbées servant à saisir les proies. L'articulation flexible de la mâchoire inférieure permet à l'Herrerasaurus de maintenir fermement sa gueule en serrant les dents.
+

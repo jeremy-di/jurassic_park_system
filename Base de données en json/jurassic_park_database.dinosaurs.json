@@ -1,0 +1,560 @@
+[{
+  "_id": {
+    "$oid": "65d7cc3dd9a4953cb72699a5"
+  },
+  "name": "Velociraptor",
+  "image01": "http://localhost:8080/images/velo-1.webp_1708641341816.webp",
+  "image02": "http://localhost:8080/images/velo.webp_1708641341816.webp",
+  "diet": {
+    "$oid": "65d7cc09d9a4953cb72699a1"
+  },
+  "paddock": {
+    "$oid": "65d7cbb5d9a4953cb726999f"
+  },
+  "height": 2,
+  "width": 3,
+  "weight": 136,
+  "habitatWater": 5,
+  "habitatForest": 32,
+  "habitatOpenSpace": 62,
+  "description": "Les Velociraptors sont des chasseurs de meute très intelligents. Ils peuvent courir de 65 à 100 km/h, assez vite pour distancer de nombreux autres dinosaures. Ils ont un niveau de vocalisation primitif qui leur permet de diriger des attaques et d'appeler à l'aide. Ils sont également capables de tendre des pièges à leurs proies.",
+  "createdAt": {
+    "$date": "2024-02-22T22:35:41.819Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T22:35:41.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d7ce7fd9a4953cb72699a9"
+  },
+  "name": "Tyrannosaure Rex",
+  "image01": "http://localhost:8080/images/t-rex-1.webp_1708641919043.webp",
+  "image02": "http://localhost:8080/images/t-rex.webp_1708641919043.webp",
+  "diet": {
+    "$oid": "65d7cc09d9a4953cb72699a1"
+  },
+  "paddock": {
+    "$oid": "65d7ccc0d9a4953cb72699a7"
+  },
+  "height": 4,
+  "width": 13,
+  "weight": 7000,
+  "habitatWater": 6,
+  "habitatForest": 27,
+  "habitatOpenSpace": 54,
+  "description": "Comme les autres tyrannosauridés, le Tyrannosaure est un carnivore bipède avec un crâne massif équilibré par une longue et lourde queue. Par rapport à ses membres postérieurs grands et puissants, les membres antérieurs du Tyrannosaure sont courts mais exceptionnellement puissants pour leur taille, et ils ont 2 doigts griffus.",
+  "createdAt": {
+    "$date": "2024-02-22T22:45:19.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T22:45:19.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcac5e851c6d5318381395"
+  },
+  "name": "Carnotaure",
+  "image01": "http://localhost:8080/images/Carnotaurus-1.webp_1708960862687.webp",
+  "image02": "http://localhost:8080/images/Carnotaurus.webp_1708960862687.webp",
+  "diet": {
+    "$oid": "65d7cc09d9a4953cb72699a1"
+  },
+  "paddock": {
+    "$oid": "65dc8612d99d6d027ec208c3"
+  },
+  "height": 3,
+  "width": 8,
+  "weight": 1500,
+  "habitatWater": 5,
+  "habitatForest": 0,
+  "habitatOpenSpace": 48,
+  "description": "Le Carnotaurus est un abelisauridae du Crétacé supérieur. Il a deux cornes sur la tête rappelant un taureau et avec des bras qui sont plus petits que ceux du Tyrannosaure rex. Il possède une vision binoculaire qui l'avantage pour la chasse.",
+  "createdAt": {
+    "$date": "2024-02-26T15:21:02.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T15:21:02.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd2c7c851c6d5318381565"
+  },
+  "name": "Allosaure",
+  "image01": "http://localhost:8080/images/Allosaurus-1.webp_1708993660758.webp",
+  "image02": "http://localhost:8080/images/Allosaurus.webp_1708993660760.webp",
+  "diet": {
+    "$oid": "65d7cc09d9a4953cb72699a1"
+  },
+  "paddock": {
+    "$oid": "65dd0704851c6d53183814e9"
+  },
+  "height": 4,
+  "width": 9,
+  "weight": 2300,
+  "habitatWater": 6,
+  "habitatForest": 31,
+  "habitatOpenSpace": 63,
+  "description": "L'Allosaure est un dinosaure théropode. Comme beaucoup de théropodes, ses mâchoires sont garnies de dents acérées et plusieurs coups de mâchoires répétés peuvent causer une hémorragie fatale. \r\n\r\nBien que ce soit un des plus grands prédateurs, chasser le Stégosaure est assez compliqué et il lui faut chasser en meute pour abattre un Diplodocus​​​​​​. Ces chasses lui valent souvent de sérieuses blessures auxquelles il lui arrive de survivre. ",
+  "createdAt": {
+    "$date": "2024-02-27T00:27:40.764Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T00:27:40.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd2d3c851c6d5318381574"
+  },
+  "name": "Baryonyx",
+  "image01": "http://localhost:8080/images/Baryonyx-1.webp_1708993852403.webp",
+  "image02": "http://localhost:8080/images/Baryonyx.webp_1708993852408.webp",
+  "diet": {
+    "$oid": "65d7cc09d9a4953cb72699a1"
+  },
+  "paddock": {
+    "$oid": "65dd1038851c6d53183814f7"
+  },
+  "height": 3,
+  "width": 10,
+  "weight": 2500,
+  "habitatWater": 37,
+  "habitatForest": 44,
+  "habitatOpenSpace": 0,
+  "description": "Le Baryonyx est un Spinosauridae, il fait partie du même groupe que le Spinosaure et le Suchomimus. Bien que piscivore, il pouvait se nourrir de carcasses et d'autres dinosaures.",
+  "createdAt": {
+    "$date": "2024-02-27T00:30:52.411Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T00:30:52.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd30aa851c6d53183815ae"
+  },
+  "name": "Compsognathus",
+  "image01": "http://localhost:8080/images/Compsognathus-1.webp_1708994730778.webp",
+  "image02": "http://localhost:8080/images/Compsognathus.webp_1708994730779.webp",
+  "diet": {
+    "$oid": "65d7cc09d9a4953cb72699a1"
+  },
+  "paddock": {
+    "$oid": "65dd1135851c6d531838150d"
+  },
+  "height": 0.3,
+  "width": 1,
+  "weight": 3,
+  "habitatWater": 5,
+  "habitatForest": 48,
+  "habitatOpenSpace": 0,
+  "description": "Ce dinosaure se nourrit d'insectes et de petits lézards. Ce dinosaure chassait aussi en meute. Ce dinosaure possède deux doigts sur ses membres supérieurs comme le tyrannosaure.",
+  "createdAt": {
+    "$date": "2024-02-27T00:45:30.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T00:45:30.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd3369851c6d53183815e2"
+  },
+  "name": "Deinonychus",
+  "image01": "http://localhost:8080/images/Deinonychus-1.webp_1708995433233.webp",
+  "image02": "http://localhost:8080/images/Deinonychus.webp_1708995433234.webp",
+  "diet": {
+    "$oid": "65d7cc09d9a4953cb72699a1"
+  },
+  "paddock": {
+    "$oid": "65dd115a851c6d5318381517"
+  },
+  "height": 2,
+  "width": 3,
+  "weight": 73,
+  "habitatWater": 7,
+  "habitatForest": 27,
+  "habitatOpenSpace": 67,
+  "description": "Le Deinonychus est un dinosaure carnivores de la famille des Dromaeosauridae. Ce dinosaure long d'approximativement 3,40 mètres.",
+  "createdAt": {
+    "$date": "2024-02-27T00:57:13.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T00:57:13.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd34be851c6d53183815f2"
+  },
+  "name": "Dilophosaure",
+  "image01": "http://localhost:8080/images/Dilophosaurus-1.webp_1708995774163.webp",
+  "image02": "http://localhost:8080/images/Dilophosaurus.webp_1708995774163.webp",
+  "diet": {
+    "$oid": "65d7cc09d9a4953cb72699a1"
+  },
+  "paddock": {
+    "$oid": "65dd11e2851c6d5318381535"
+  },
+  "height": 3,
+  "width": 6,
+  "weight": 1000,
+  "habitatWater": 5,
+  "habitatForest": 48,
+  "habitatOpenSpace": 48,
+  "description": "Le Dilophosaure est l'un des plus grands dinosaures carnivores du Jurassique inférieur. Le Dilophosaure tire son nom des deux fines crêtes osseuses sur le dessus de sa tête. Ceux-ci sont utilisés comme parade à des fins de parade nuptiale. (Sa collerette a capacité de cracher du venin sur sa proie.\r\n\r\nEn tant que dinosaure prédateur plus primitif, le Dilophosaure n'a pas d'yeux orientés vers l'avant pour lui donner une vision stéréo. Il utilise l'odeur comme partie intégrante de sa technique de chasse. Il a de longues et fines dents recourbées vers l'arrière dans de longues mâchoires et des bras avant puissants qui sont efficaces pour attraper des proies. Il est rapide - probablement avec une vitesse maximale d'environ 48 km. Il partage la même configuration corporelle globale que le Coelophysis même si le Dilophosaure est actuellement classé comme membre d'un groupe différent de théropodes plutôt que le Coelophysis et ses parents.",
+  "createdAt": {
+    "$date": "2024-02-27T01:02:54.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T01:02:54.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd362f851c6d531838160a"
+  },
+  "name": "Spinosaure",
+  "image01": "http://localhost:8080/images/Spinosaurus-1.webp_1708996143632.webp",
+  "image02": "http://localhost:8080/images/Spinosaurus.webp_1708996143633.webp",
+  "diet": {
+    "$oid": "65d7cc09d9a4953cb72699a1"
+  },
+  "paddock": {
+    "$oid": "65dd122c851c6d531838153c"
+  },
+  "height": 7,
+  "width": 15,
+  "weight": 10000,
+  "habitatWater": 40,
+  "habitatForest": 20,
+  "habitatOpenSpace": 40,
+  "description": "Le Spinosaure (qui signifie \"lézard à épines\"). Le Spinosaure est le plus long de tous les dinosaures carnivores connus, encore plus long que le Carcharodontosaurus, le Giganotosaurus et le Tyrannosaurus rex à une longueur de 16 mettre. C'est aussi la plus grande espèce de spinosauridé, avec le plus gros spécimen, MSMN V4047 atteignant 14 mètres de longueur. Ses parents plus petits incluent le Suchomimus, le Baryonyx, l'Irritator, l'Ichthyovenator et une espèce nouvellement découverte appelée Iberospinus natarioi.\r\n\r\nSa caractéristique la plus distinctive est l'énorme voile sur son dos. Cette voile est composée d'épines qui s'étendent du haut des épines dorsales de tous les dinosaures et vertébrés. Les épines du Spinosaurus sont énormes, la plus longue trouvée mesurait plus de 1,7 mètre de haut. La voile est utilisée pour attirer un compagnon, la faisant paraître plus grande pour les autres prédateurs avec lesquels elle partage, ou agir comme une nageoire dorsale lorsqu'elle se déplace dans l'eau.",
+  "createdAt": {
+    "$date": "2024-02-27T01:09:03.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T01:09:03.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd36e1851c6d5318381626"
+  },
+  "name": "Troodon",
+  "image01": "http://localhost:8080/images/Troodon-1.webp_1708996321406.webp",
+  "image02": "http://localhost:8080/images/Troodon.webp_1708996321406.webp",
+  "diet": {
+    "$oid": "65d7cc09d9a4953cb72699a1"
+  },
+  "paddock": {
+    "$oid": "65dd1270851c6d5318381541"
+  },
+  "height": 1,
+  "width": 3,
+  "weight": 50,
+  "habitatWater": 7,
+  "habitatForest": 31,
+  "habitatOpenSpace": 62,
+  "description": "Le Troodon est connu pour la grande taille de sa cavité cérébrale, donc pour son grand cerveau. Du fait de sa taille, il est possible qu’il ait eu, ainsi que d’autres Troödontidés, un cerveau beaucoup plus grand que tous les Théropodes non volants. C’est ainsi que certains scientifiques ont conclu que Troödon et ses parents étaient beaucoup plus intelligents que les autres dinosaures.",
+  "createdAt": {
+    "$date": "2024-02-27T01:12:01.407Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T01:12:01.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd37bf851c6d5318381636"
+  },
+  "name": "Ankylosaure",
+  "image01": "http://localhost:8080/images/Ankylosaurus-1.webp_1708996543624.webp",
+  "image02": "http://localhost:8080/images/Ankylosaurus.webp_1708996543628.webp",
+  "diet": {
+    "$oid": "65d7cc17d9a4953cb72699a3"
+  },
+  "paddock": {
+    "$oid": "65dd1350851c6d5318381545"
+  },
+  "height": 3,
+  "width": 10,
+  "weight": 6,
+  "habitatWater": 3,
+  "habitatForest": 31,
+  "habitatOpenSpace": 32,
+  "description": "L'Ankylosaure est comme un tank avec une armure osseuse très épaisse. Il dispose aussi d'une massue au bout de la queue qu’il peut balancer pour repousser ou blesser ses prédateurs. Il a peu de prédateurs et même le Tyrannosaure hésite à l'attaquer.\r\nL'Ankylosaure est l'une des créatures les plus défensives de tous les temps. Presque aucune attaque ne pénètre son armure d'os, même ses paupières sont blindées. Sa queue puissante peut briser les os de ses prédateurs et elle peuvent pivoter jusqu’à 45 degrés dans chaque direction.",
+  "createdAt": {
+    "$date": "2024-02-27T01:15:43.630Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T01:15:43.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd3870851c6d5318381652"
+  },
+  "name": "Brachiosaure",
+  "image01": "http://localhost:8080/images/Brachiosaurus-1.webp_1708996720328.webp",
+  "image02": "http://localhost:8080/images/Brachiosaurus.webp_1708996720330.webp",
+  "diet": {
+    "$oid": "65d7cc17d9a4953cb72699a3"
+  },
+  "paddock": {
+    "$oid": "65dd1350851c6d5318381545"
+  },
+  "height": 20,
+  "width": 30,
+  "weight": 64000,
+  "habitatWater": 3,
+  "habitatForest": 32,
+  "habitatOpenSpace": 16,
+  "description": "Le Brachiosaure est un membre de la famille des sauropodes et l'un des dinosaures les plus connus. Il tire son nom de la grande hauteur de son humérus, ou os du bras supérieur, qui est plus long que la taille de la plupart des humains. Pendant près d'un siècle, le Brachiosaure a été considéré comme le plus grand de tous les dinosaures, mesurant plus de 20 mètres de haut. Depuis lors, on a découvert que d'autres dinosaures étaient plus grands.",
+  "createdAt": {
+    "$date": "2024-02-27T01:18:40.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T01:18:40.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd3972851c6d5318381674"
+  },
+  "name": "Diplodocus",
+  "image01": "http://localhost:8080/images/Diplodocus-1.webp_1708996978097.webp",
+  "image02": "http://localhost:8080/images/Diplodocus.webp_1708996978099.webp",
+  "diet": {
+    "$oid": "65d7cc17d9a4953cb72699a3"
+  },
+  "paddock": {
+    "$oid": "65dd1350851c6d5318381545"
+  },
+  "height": 5,
+  "width": 32,
+  "weight": 16000,
+  "habitatWater": 3,
+  "habitatForest": 45,
+  "habitatOpenSpace": 19,
+  "description": "Le Diplodocus, anciennement Seismosaurus, est un des très grands dinosaures herbivores sauropodes de la famille des diplodocidés ayant vécu au Jurassique supérieur (Kimméridgien supérieur), il y a environ entre 154 et 152 millions d'années, en Amérique du Nord où il a été découvert dans la partie moyenne et supérieure de la formation de Morrison dans les États de l'ouest des États-Unis.",
+  "createdAt": {
+    "$date": "2024-02-27T01:22:58.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T01:22:58.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd3a36851c6d5318381690"
+  },
+  "name": "Edmontosaurus",
+  "image01": "http://localhost:8080/images/Edmontosaurus-1.webp_1708997174461.webp",
+  "image02": "http://localhost:8080/images/Edmontosaurus.webp_1708997174464.webp",
+  "diet": {
+    "$oid": "65d7cc17d9a4953cb72699a3"
+  },
+  "paddock": {
+    "$oid": "65dd1350851c6d5318381545"
+  },
+  "height": 5,
+  "width": 13,
+  "weight": 4200,
+  "habitatWater": 7,
+  "habitatForest": 0,
+  "habitatOpenSpace": 74,
+  "description": "L'Edmontosaurus est un genre de dinosaure ornithopode de la famille des hadrosauridés (dinosaures à bec de canard) et de la sous-famille des hadrosaurinés. Les fossiles de cet animal ont été retrouvés dans des roches de l'ouest de l'Amérique du Nord datant de la fin du Campanien jusqu'à la fin du Maastrichtien au Crétacé supérieur, il y a entre 73 et 66 millions d'années. C'est l'un des derniers dinosaures non-aviens à avoir vécu aux côtés des tricératops et des tyrannosaures peu de temps avant l'extinction Crétacé-Tertiaire.",
+  "createdAt": {
+    "$date": "2024-02-27T01:26:14.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T01:26:14.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd9fadb0165d7dfc4c384f"
+  },
+  "name": "Euoplocephalus",
+  "image01": "http://localhost:8080/images/Euoplocephalus-1.webp_1709023149032.webp",
+  "image02": "http://localhost:8080/images/Euoplocephalus.webp_1709023149034.webp",
+  "diet": {
+    "$oid": "65d7cc17d9a4953cb72699a3"
+  },
+  "paddock": {
+    "$oid": "65dd136d851c6d5318381549"
+  },
+  "height": 2,
+  "width": 8,
+  "weight": 2799.9,
+  "habitatWater": 0,
+  "habitatForest": 0,
+  "habitatOpenSpace": 100,
+  "description": "Euoplocephalus est un dinosaure ornithischien herbivore qui a vécu au cours du Crétacé supérieur, il y a entre 80 et 66 millions d’années. Long de 7 mètres pour un poids de 2 tonnes, il est caractéristique de la famille des ankylosauridés, dinosaures cuirassés assez courts sur pattes, dont la tête est protégée par des plaques osseuses, certaines pouvant recouvrir les paupières.\r\nSon cou et son dos sont également pourvus de plaques, piquants et cornes. À l’extrémité de sa queue se trouve une massue, formée de protubérances osseuses dans le prolongement de la dernière vertèbre caudale. Il s’en servait pour se défendre contre les grands prédateurs, en particulier l'Albertosaurus, en frappant leurs membres postérieurs.",
+  "createdAt": {
+    "$date": "2024-02-27T08:39:09.042Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T08:39:09.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dda096b0165d7dfc4c385f"
+  },
+  "name": "Gallimimus",
+  "image01": "http://localhost:8080/images/Gallimimus-1.webp_1709023382329.webp",
+  "image02": "http://localhost:8080/images/Gallimimus.webp_1709023382330.webp",
+  "diet": {
+    "$oid": "65d7cc17d9a4953cb72699a3"
+  },
+  "paddock": {
+    "$oid": "65dd136d851c6d5318381549"
+  },
+  "height": 2,
+  "width": 8,
+  "weight": 440,
+  "habitatWater": 7,
+  "habitatForest": 31,
+  "habitatOpenSpace": 100,
+  "description": "Gallimimus est un genre de dinosaure théropode ornithomimidé qui vivait en Mongolie à la fin du Crétacé il y a environ 70 millions d'années. C'est un théropode rapide, le plus grand de son genre. On les appellent des imitateurs de poulet parce qu'ils se déplaçaient probablement comme des oiseaux modernes incapables de voler. Contrairement aux autres théropodes, le Gallimimus n'a pas de dents. En fait, il a une toute petite tête. C'est probablement l'un des dinosaures les plus rapides, avec une vitesse comme une autruche, il peut probablement courir jusqu'à 48 km à l'heure.",
+  "createdAt": {
+    "$date": "2024-02-27T08:43:02.333Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T08:43:02.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dda17ab0165d7dfc4c387b"
+  },
+  "name": "Maiasaura",
+  "image01": "http://localhost:8080/images/Maiasaura-1.webp_1709023610151.webp",
+  "image02": "http://localhost:8080/images/Maiasaura.webp_1709023610154.webp",
+  "diet": {
+    "$oid": "65d7cc17d9a4953cb72699a3"
+  },
+  "paddock": {
+    "$oid": "65dd136d851c6d5318381549"
+  },
+  "height": 3,
+  "width": 9,
+  "weight": 900,
+  "habitatWater": 7,
+  "habitatForest": 0,
+  "habitatOpenSpace": 63,
+  "description": "Le Maiasaura, un genre de Hadrosauridae, connu pour être une \"bonne mère lézard\", comme le prouvent les fossiles, il se soucie de sa jeunesse. Les Maiasaura sont également légers pour leur taille et peuvent courir. Il a vécu en Amérique du Nord il y a environ 75 millions d'années, probablement l'ancêtre direct de l'hadrosaure Edmontosaurus. Il a été nommé par Jack Horner et Robert Makela en 1979.",
+  "createdAt": {
+    "$date": "2024-02-27T08:46:50.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T08:46:50.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dda29bb0165d7dfc4c388c"
+  },
+  "name": "Pachycephalosaurus",
+  "image01": "http://localhost:8080/images/Pachycephalosaurus-1.webp_1709023899016.webp",
+  "image02": "http://localhost:8080/images/Pachycephalosaurus.webp_1709023899017.webp",
+  "diet": {
+    "$oid": "65d7cc17d9a4953cb72699a3"
+  },
+  "paddock": {
+    "$oid": "65dd136d851c6d5318381549"
+  },
+  "height": 2,
+  "width": 4,
+  "weight": 450,
+  "habitatWater": 6,
+  "habitatForest": 0,
+  "habitatOpenSpace": 63,
+  "description": "Le Pachycephalosaurus est un dinosaure qui vivait pendant le Crétacé supérieur (à l’époque géologique du Maastrichtien) de ce qui est maintenant l’Amérique du Nord. Des fossiles de cet animal ont été exhumés dans le Montana, le Dakota du Sud et du Wyoming (USA). Le Pachycephalosaure est l’un des derniers dinosaures non-aviaires existant avant l’événement qui a provoqué l’extinction des dinosaures, à la limite des époques géologiques Crétacé-Paléogène.",
+  "createdAt": {
+    "$date": "2024-02-27T08:51:39.019Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T08:51:39.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dda35db0165d7dfc4c38a8"
+  },
+  "name": "Stegosaure",
+  "image01": "http://localhost:8080/images/Stegosaurus-1.webp_1709024093136.webp",
+  "image02": "http://localhost:8080/images/Stegosaurus.webp_1709024093139.webp",
+  "diet": {
+    "$oid": "65d7cc17d9a4953cb72699a3"
+  },
+  "paddock": {
+    "$oid": "65dd1391851c6d531838154d"
+  },
+  "height": 4,
+  "width": 9,
+  "weight": 4000,
+  "habitatWater": 5,
+  "habitatForest": 29,
+  "habitatOpenSpace": 90,
+  "description": "Le Stegosaurus est un genre de dinosaures très connu. C'est le membre le plus important et le plus célèbre de la famille des stégosaures. Il sillonnait les plaines ouvertes du Jurassique supérieur dans ce qui est maintenant l’Amérique du Nord. Les plaques sur son dos, sa petite tête et sa queue hérissée en font un dinosaure particulier et unique.\r\n\r\nStegosaurus est souvent appelé le dinosaure le plus stupide à cause de son cerveau incroyablement petit. En fait, la plupart des scientifiques pensent à l'origine que son cerveau était trop petit pour contrôler une créature de cette taille et qu'il utilisait un \"cerveau\" auxiliaire situé au-dessus de ses pattes arrière pour contrôler ses mouvements. Ce n'était pas réellement un cerveau, mais un faisceau de nerfs qui aidait à relayer l'information de son vrai cerveau. On pensait autrefois que son cerveau avait la taille d'une noix, mais les tomodensitogrammes ont prouvé qu'il s'agissait en réalité d'une taille de chaton.",
+  "createdAt": {
+    "$date": "2024-02-27T08:54:53.143Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T08:54:53.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dda445b0165d7dfc4c38c4"
+  },
+  "name": "Triceratops",
+  "image01": "http://localhost:8080/images/Triceratops-1.webp_1709024325983.webp",
+  "image02": "http://localhost:8080/images/Triceratops.webp_1709024325986.webp",
+  "diet": {
+    "$oid": "65d7cc17d9a4953cb72699a3"
+  },
+  "paddock": {
+    "$oid": "65dd1391851c6d531838154d"
+  },
+  "height": 3,
+  "width": 10,
+  "weight": 13000,
+  "habitatWater": 5,
+  "habitatForest": 0,
+  "habitatOpenSpace": 48,
+  "description": "Triceratops est un genre de dinosaure cératopsidé chasmosaurine herbivore qui vivait à la toute fin du Crétacé. Il a une énorme tête à collerette avec des cornes sur chaque œil pouvant atteindre plus de 91 cm de long. Le Triceratops a une troisième corne plus petite sur son nez. Ce seraient des armes redoutables contre un prédateur.\r\n\r\nLe Triceratops est l'un des fossiles de dinosaures les plus courants trouvés. Plus de 50 crânes ont été retrouvés. Au sein du genre, au moins 7 espèces ont été identifiées. La famille des cératopsiens est l'une des plus abouties et des plus variées du Crétacé supérieur. Le Triceratops est le plus grand membre de cette famille, atteignant la taille d'un autobus scolaire.\r\n\r\nLe Triceratops est un animal de troupeau; on pense que de grands groupes se chiffrant par centaines parcouraient l'Amérique du Nord. Leurs grands becs cornés et leurs longues rangées de dents sont bien conçus pour mâcher les plantes dures et à faible croissance du Crétacé supérieur. Il est probable que le principal prédateur de ces animaux était le Tyrannosaure rex. Un certain nombre de squelettes présentent des marques de morsure et de mastication qui correspondent aux dents du T. rex. Les cornes et la collette semblent varier d'un individu à l'autre de l'espèce. Certaines fioritures sont très larges, d'autres étroites. La corne nasale montre le plus de variance parmi les spécimens individuels, il n'y en a pas deux identiques. Le matériau qui recouvre ses cornes dans la vie a considérablement augmenté la longueur de l'os fossilisé.",
+  "createdAt": {
+    "$date": "2024-02-27T08:58:45.989Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T08:58:45.989Z"
+  },
+  "__v": 0
+}]

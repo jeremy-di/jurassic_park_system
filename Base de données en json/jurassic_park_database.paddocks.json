@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "65d7cbb5d9a4953cb726999f"
+  },
+  "designation": "Enclos C2",
+  "zone": "Zone C Est 1",
+  "zoneMap": "http://localhost:8080/images/zone_c_est_one.png_1708641205673.png",
+  "fenceType": "Cloture à haute tension",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-22T22:33:25.685Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T22:33:25.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d7ccc0d9a4953cb72699a7"
+  },
+  "designation": "Enclos A1",
+  "zone": "Zone C Est 2",
+  "zoneMap": "http://localhost:8080/images/zone_c_est_two.png_1708641472211.png",
+  "fenceType": "Cloture renforcée à haute tension",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-22T22:37:52.216Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T22:37:52.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc8612d99d6d027ec208c3"
+  },
+  "designation": "Enclos A2",
+  "zone": "Zone C Est 2",
+  "zoneMap": "http://localhost:8080/images/zone_c_est_two.png_1708951058859.png",
+  "fenceType": "Cloture renforcée à haute tension",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-26T12:37:38.863Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T12:37:38.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd0704851c6d53183814e9"
+  },
+  "designation": "Enclos A3",
+  "zone": "Zone C Est 1",
+  "zoneMap": "http://localhost:8080/images/zone_c_est_one.png_1708984068396.png",
+  "fenceType": "Cloture à haute tension",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-26T21:47:48.402Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T21:47:48.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd1038851c6d53183814f7"
+  },
+  "designation": "Enclos B1",
+  "zone": "Zone C Est 1",
+  "zoneMap": "http://localhost:8080/images/zone_c_est_one.png_1708986424270.png",
+  "fenceType": "Cloture à haute tension",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-26T22:27:04.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T22:27:04.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd1135851c6d531838150d"
+  },
+  "designation": "Enclos B2",
+  "zone": "Zone C Est 3",
+  "zoneMap": "http://localhost:8080/images/zone_c_est_tree.png_1708986677445.png",
+  "fenceType": "Cloture à haute tension pour petits animaux",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-26T22:31:17.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T22:31:17.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd115a851c6d5318381517"
+  },
+  "designation": "Enclos B3",
+  "zone": "Zone C Est 3",
+  "zoneMap": "http://localhost:8080/images/zone_c_est_tree.png_1708986714530.png",
+  "fenceType": "Cloture à haute tension",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-26T22:31:54.534Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T22:31:54.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd11e2851c6d5318381535"
+  },
+  "designation": "Enclos C1",
+  "zone": "Zone C Est 2",
+  "zoneMap": "http://localhost:8080/images/zone_c_est_two.png_1708986850064.png",
+  "fenceType": "Cloture renforcée à haute tension",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-26T22:34:10.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T22:34:10.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd122c851c6d531838153c"
+  },
+  "designation": "Enclos C3",
+  "zone": "Zone C Est 4",
+  "zoneMap": "http://localhost:8080/images/zone_c_est_four.png_1708986924264.png",
+  "fenceType": "Cloture renforcée à haute tension",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-26T22:35:24.277Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T22:35:24.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd1270851c6d5318381541"
+  },
+  "designation": "Enclos D1",
+  "zone": "Zone C Est 2",
+  "zoneMap": "http://localhost:8080/images/zone_c_est_two.png_1708986992011.png",
+  "fenceType": "Cloture à haute tension",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-26T22:36:32.015Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T22:36:32.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd1350851c6d5318381545"
+  },
+  "designation": "Enclos E1",
+  "zone": "Zone H Nord 1",
+  "zoneMap": "http://localhost:8080/images/zone_h_nord_one.png_1708987216723.png",
+  "fenceType": "Cloture de prairie",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-26T22:40:16.730Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T22:40:16.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd136d851c6d5318381549"
+  },
+  "designation": "Enclos E2",
+  "zone": "Zone H Nord 2",
+  "zoneMap": "http://localhost:8080/images/zone_h_nord_two.png_1708987245505.png",
+  "fenceType": "Cloture de prairie",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-26T22:40:45.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T22:40:45.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd1391851c6d531838154d"
+  },
+  "designation": "Enclos E3",
+  "zone": "Zone H Sud 1",
+  "zoneMap": "http://localhost:8080/images/zone_h_sud_one.png_1708987281403.png",
+  "fenceType": "Cloture en béton",
+  "dinosaurs": [],
+  "createdAt": {
+    "$date": "2024-02-26T22:41:21.411Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T22:41:21.411Z"
+  },
+  "__v": 0
+}]

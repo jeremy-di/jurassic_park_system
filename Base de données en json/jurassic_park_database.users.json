@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65d75eab8cf2ef89acb7ece4"
+  },
+  "name": "Arnold",
+  "firstName": "John",
+  "email": "aj@ingen.com",
+  "password": "$2b$10$RRe2f6gdj/nTRH2SFjqGW.EAcWO0/UCAhg8nUb1mUfvLgMahgFkNS",
+  "createdAt": {
+    "$date": "2024-02-22T14:48:11.498Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T14:48:11.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcb263851c6d53183813c6"
+  },
+  "name": "Nedry",
+  "firstName": "Dennis",
+  "email": "nd@ingen.com",
+  "password": "$2b$10$/6NmeVGHnm1vfROW7vpCKuOH1AawqC4UnOS3oJ/T3/YhrlXCwLine",
+  "createdAt": {
+    "$date": "2024-02-26T15:46:43.038Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T15:46:43.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ddb137b5559a4c9955a1f0"
+  },
+  "name": "Wu",
+  "firstName": "Henri",
+  "email": "wh@ingen.com",
+  "password": "$2b$10$WaMOa2uQvsYFUeYJaUCCUuJ37/jgrtG804bNoG9kzIkkhvs1R415G",
+  "createdAt": {
+    "$date": "2024-02-27T09:53:59.175Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T09:53:59.175Z"
+  },
+  "__v": 0
+}]
