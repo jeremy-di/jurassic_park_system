@@ -61,4 +61,6 @@ Pour accéder à une base de données nous faisons:
 use toto
 ```
 
+https://welovedevs.com/fr/articles/mongo-shell/
+
 
